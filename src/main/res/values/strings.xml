@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="facts_viewed">переглянуто фактів: %1$d</string>
+    <string name="loading_fact">завантаження факту...</string>
+    <string name="new_fact_button">новий факт</string>
+    <string name="instructions_button">інструкції</string>
+    <string name="about_button">про додаток</string>
+    <string name="cat_facts_title">котячі факти</string>
+    <string name="widget_instructions_title">як використовувати віджет</string>
+    <string name="about_app_title">про додаток</string>
+    <string name="ok_button">ОК</string>
+    <string name="visit_website">відвідати сайт</string>
+    <string name="close_button">закрити</string>
+    <string name="add_to_favorites">додати до улюблених</string>
+    <string name="remove_from_favorites">видалити з улюблених</string>
+    <string name="fact_added">факт додано до улюблених</string>
+    <string name="fact_removed">факт видалено з улюблених</string>
+    <string name="no_favorites">у вас ще немає улюблених фактів</string>
+    <string name="favorites_title">улюблені факти</string>
+    <string name="close">закрити</string>
+    <string name="clear_all">очистити все</string>
+    <string name="confirm_clear_title">видалити всі улюблені?</string>
+    <string name="confirm_clear_message">ви впевнені, що хочете видалити всі улюблені факти?</string>
+    <string name="yes">так</string>
+    <string name="cancel">скасувати</string>
+    <string name="all_favorites_cleared">всі улюблені факти видалено</string>
+    <string name="my_favorites">мої улюблені факти</string>
+</resources>
